@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class TownChallenge {
+//public class TownChallenge {
     public static void main(String[] args) {
 
         String[] towns = {"coleraine", "Belfast", "banbridge", "ballymoney", "newry",
@@ -28,5 +28,4 @@ public class TownChallenge {
         System.out.println(towns[6] + " " + homeScore + " " +
                 towns[7] + " " + awayScore);
     }
-}
-
+//}
